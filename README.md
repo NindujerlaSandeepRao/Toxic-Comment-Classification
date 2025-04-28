@@ -62,4 +62,4 @@ The model is optimized using the **Adam** optimizer, and the loss function is **
 
 ## Conclusion
 
-This model successfully classifies comments into multiple categories of toxicity, achieving high precision for most categories. However, the low recall for **severe_toxic**, **threat**, and **identity_hate** suggests the need for further model improvements, such as rebalancing the dataset or using more advanced techniques like class-weighting or ensemble methods.
+This model successfully classifies comments into multiple categories of toxicity, achieving high precision for most categories. However, the low recall for **severe_toxic**, **threat**, and **identity_hate** suggests the need for further model improvements, such as rebalancing the dataset or using more advanced techniques like class-weighting (or) ensemble methods.
